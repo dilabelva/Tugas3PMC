@@ -1,5 +1,4 @@
 #include <stdio.h>
-#include <stdlib.h>
 
 /* Atadila Belva Ganya
 18320015
